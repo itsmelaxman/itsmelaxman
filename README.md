@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @itsmelaxman
+Hi 👋, I'm Laxman
+- 🌱 I’m currently learning Full Stack Development Courses
 - 👀 I’m interested in Programming and Graphic Designing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on your Team
+- ⚡ Fun fact I think I am funny
 - 📫 How to reach me : https://Magaratilaxman.com.np
 
 <!---

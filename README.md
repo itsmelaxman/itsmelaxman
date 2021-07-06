@@ -3,19 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmelaxman&label=Profile%20views&color=0e75b6&style=flat" alt="itsmelaxman" /> </p>
 
-
-
 <p align="left"> <a href="https://twitter.com/lmagarati" target="blank"><img src="https://img.shields.io/twitter/follow/lmagarati?logo=twitter&style=for-the-badge" alt="lmagarati" /></a> </p>
 
+
+## 🙋‍♂️ About Me
+
 - 🔭 I’m currently working on [Dainiki Khabar](https://www.dainikhabar.com)
-
 - 🌱 I’m currently learning **Full Stack Development**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
+- 👨‍💻 All of my projects are available at **[Github as well as in My Portfolio](https://magaratilaxman.com.np)**
 - 💬 Ask me about **Tech**
-
 - 📫 How to reach me **Laxmanmagrati@gmail.com**
+- ⚡ Fun fact **I loves coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

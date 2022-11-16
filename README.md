@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laxman</h1>
 <h3 align="center">IT student from Nepal and have keen intrest in Coding.</h3>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=itsmelaxman)](https://github.com/AbhiShake1) 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=itsmelaxman)](https://github.com/itsmelaxman) 
 [![Github Followers](https://img.shields.io/github/followers/itsmelaxman.svg?style=social&logo=Follow)](https://github.com/itsmelaxman?tab=followers)
 
 <p align="left"> <a href="https://twitter.com/lmagarati" target="blank"><img src="https://img.shields.io/twitter/follow/lmagarati?logo=twitter&style=for-the-badge" alt="lmagarati" /></a> </p>

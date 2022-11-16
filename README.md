@@ -20,16 +20,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmelaxman&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/itsmelaxman?tab=repositories)
 
+![AbhiShake1's Github stats](https://github-readme-stats.vercel.app/api?username=itsmelaxman&show_icons=true&theme=dark&hide_border=true)
 
-<p align="center">
-    <a href="https://github.com/itsmelaxman/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Laxman Magarati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmelaxman&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 📊 My Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmelaxman&show_icons=true&locale=en" alt="itsmelaxman" /></p>
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lmagarati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lmagarati" height="30" width="40" /></a>

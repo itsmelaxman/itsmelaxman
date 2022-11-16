@@ -1,4 +1,4 @@
-<h1 align="center">## नमस्ते (Namaste)🙏, I'm Laxman</h1>
+<h1 align="center">नमस्ते (Namaste)🙏, I'm Laxman</h1>
 <h3 align="center">IT student from Nepal and have keen intrest in Coding.</h3>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=itsmelaxman)](https://github.com/itsmelaxman) 

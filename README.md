@@ -27,15 +27,8 @@
     Connect with me 
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">  
 </h2>
-[![Facebook Badge](https://img.shields.io/badge/-%7C%20@LMagarati-blue?style=flat&logo=Facebook&logoColor=white&link=facebook.com/lmagarati)](https://facebook.com/lmagarati "Facebook")
-[![Email Badge](https://img.shields.io/badge/-%7C%20laxmanmagrati@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:laxmanmagrati@gmail.com)](mailto:laxmanmagrati@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-%7C%20Lmagarati-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmagarati/)](https://www.linkedin.com/in/lmagarati/ "Linkedin")
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lmagarati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lmagarati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/laxman-magarati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman-magarati" height="30" width="40" /></a>
-<a href="https://fb.com/laxman.magrati.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laxman.magrati.73" height="30" width="40" /></a>
-<a href="https://instagram.com/lmagarati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lmagarati" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/laxman magarati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laxman magarati" height="30" width="40" /></a>
-</p>
+[![Facebook Badge](https://img.shields.io/badge/-@Laxman%20Magarati-c4302b?style=flat-square&labelColor=c4302b&logo=facebook&logoColor=white&link=https://www.facebook.com/lmagarati)](https://www.facebook.com/lmagarati) 
+[![Twitter Badge](https://img.shields.io/badge/-@lmagarati-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lmagarati)](https://twitter.com/lmagarati) 
+[![Instagram Badge](https://img.shields.io/badge/-@lmagarati-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/lmagarati)](https://instagram.com/lmagarati) 
+[![Linkedin Badge](https://img.shields.io/badge/-lmagarati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmagarati/)](https://www.linkedin.com/in/lmagarati/)
+[![Gmail Badge](https://img.shields.io/badge/-laxmanmagrati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laxmanmagrati@gmail.com)](mailto:laxmanmagrati@gmail.com)

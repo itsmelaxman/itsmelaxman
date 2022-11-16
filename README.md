@@ -17,10 +17,13 @@
 - 📫 How to reach me **Laxmanmagrati@gmail.com**
 - ⚡ Fun fact **I loves coding.**
 
+# 📊 GitHub Stats:
 ![itsmelaxman's Github stats](https://github-readme-stats.vercel.app/api?username=itsmelaxman&show_icons=true&theme=dark&hide_border=true)
 
+# GitHub Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmelaxman&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
+
+# Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmelaxman&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/itsmelaxman?tab=repositories)
 
 

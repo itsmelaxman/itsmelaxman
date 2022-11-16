@@ -18,8 +18,8 @@
 - ⚡ Fun fact **I loves coding.**
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsmelaxman&show_icons=true&theme=dark&hide_border=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmelaxman&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=itsmelaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmelaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies

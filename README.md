@@ -17,15 +17,16 @@
 - 📫 How to reach me **Laxmanmagrati@gmail.com**
 - ⚡ Fun fact **I loves coding.**
 
-# 📊 GitHub Stats:
-![itsmelaxman's Github stats](https://github-readme-stats.vercel.app/api?username=itsmelaxman&show_icons=true&theme=dark&hide_border=true)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itsmelaxman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmelaxman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmelaxman&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itsmelaxman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmelaxman&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/itsmelaxman?tab=repositories)
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Connect Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lmagarati) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lmagarati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lmagarati) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lmagarati) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lmagarati) 

@@ -23,7 +23,13 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmelaxman&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/itsmelaxman?tab=repositories)
 
- </center>
+<h2>
+    Connect with me 
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">  
+</h2>
+[![Facebook Badge](https://img.shields.io/badge/-%7C%20@LMagarati-blue?style=flat&logo=Facebook&logoColor=white&link=facebook.com/lmagarati)](https://facebook.com/lmagarati "Facebook")
+[![Email Badge](https://img.shields.io/badge/-%7C%20laxmanmagrati@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:laxmanmagrati@gmail.com)](mailto:laxmanmagrati@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-%7C%20Lmagarati-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmagarati/)](https://www.linkedin.com/in/lmagarati/ "Linkedin")
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

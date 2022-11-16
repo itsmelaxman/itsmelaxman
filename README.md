@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I loves coding.**
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShake1&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/AbhiShake1?tab=repositories)
 
 
 <p align="center">

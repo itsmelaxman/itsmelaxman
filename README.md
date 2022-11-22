@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lmagarati" target="blank"><img src="https://img.shields.io/twitter/follow/lmagarati?logo=twitter&style=for-the-badge" alt="lmagarati" /></a> </p>
 
+<a href="https://stardev.io/developers/itsmelaxman"><img alt="Check out itsmelaxman's profile on stardev.io" src="https://stardev.io/developers/itsmelaxman/badge/languages/global.svg" /></a>
 
 ## 🙋‍♂️ About Me
 

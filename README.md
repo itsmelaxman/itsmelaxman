@@ -10,11 +10,12 @@
 
 ## 🙋‍♂️ About Me
 
+- 😊 Pronouns: He/His
 - 🔭 I’m currently working on [E-Digital Nepal](https://www.github.com/edigitalnepal)
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[Github as well as in My Portfolio](https://magaratilaxman.com.np)**
-- 💬 Ask me about **Tech**
+- 💬 Ask me about **Flutter**
 - 📫 How to reach me **Laxmanmagrati@gmail.com**
 - ⚡ Fun fact **I loves coding.**
 

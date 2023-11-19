@@ -15,6 +15,7 @@
 - 💬 Ask me about **Flutter, Android, React Native, WordPress, Kotlin, Adobe Suite, Figma**
 - 📫 How to reach me **laxmanmagrati@gmail.com**
 - ⚡ Fun fact **Turning coffee into code, pixels into art, and errors into features.**
+<br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsmelaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)

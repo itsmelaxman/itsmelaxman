@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[E-Digital Nepal](https://github.com/edigitalnepal) [SwifySync] (https://github.com/swiftsyncnp)** 
+- 🔭 I’m currently working on **[E-Digital Nepal](https://github.com/edigitalnepal) & [SwifySync](https://github.com/swiftsyncnp)** 
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[Github as well as in My Portfolio](https://magaratilaxman.com.np)**

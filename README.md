@@ -24,8 +24,8 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itsmelaxman&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true) <br>
 
-## Tech Stack
-<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,appwrite,git,html,css,illustrator,js,kotlin,laravel,linux,mysql,nginx,photoshop,php,postman,react,figma,xd" title="Appwrite, CSS, Dart, Figma, Firebase, Flutter, Git, HTML, Illustrator, JavaScript, Kotlin, Laravel, Linux, MySQL, Nginx, Photoshop, PHP, Postman, React" /> <br><br>
+## 👨‍💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,appwrite,git,html,css,illustrator,js,kotlin,laravel,linux,mysql,nginx,photoshop,php,postman,react,figma,xd,vscode" title="Appwrite, CSS, Dart, Figma, Firebase, Flutter, Git, HTML, Illustrator, JavaScript, Kotlin, Laravel, Linux, MySQL, Nginx, Photoshop, PHP, Postman, React" /> <br><br>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

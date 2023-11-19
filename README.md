@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&" alt="itsmelaxman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmelaxman&show_icons=true&locale=en" alt="itsmelaxman" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=itsmelaxman&show_icons=true&locale=en" alt="itsmelaxman" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsmelaxman&theme=radical&no-frame=false&no-bg=true&margin-w=4)

@@ -1,5 +1,5 @@
-<h1 align="center">नमस्ते (Namaste)🙏, I'm Laxman</h1>
-<h3 align="center">IT student from Nepal and have keen intrest in Coding.</h3>
+<h1 align="center">Hi 👋, I'm Laxman</h1>
+<h3 align="center">A passionate Software & Mobile App Developer from Nepal</h3>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=itsmelaxman)](https://github.com/itsmelaxman) 
 [![Github Followers](https://img.shields.io/github/followers/itsmelaxman.svg?style=social&logo=Follow)](https://github.com/itsmelaxman?tab=followers)

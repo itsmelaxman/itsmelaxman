@@ -11,13 +11,13 @@
 ## 🙋‍♂️ About Me
 
 - 😊 Pronouns: He/His
-- 🔭 I’m currently working on [E-Digital Nepal](https://www.github.com/edigitalnepal)
+- 🔭 I’m currently working on **@edigitalnepal @swiftsync @yuwadev**
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[Github as well as in My Portfolio](https://magaratilaxman.com.np)**
-- 💬 Ask me about **Flutter**
-- 📫 How to reach me **Laxmanmagrati@gmail.com**
-- ⚡ Fun fact **I loves coding.**
+- 💬 Ask me about **Flutter, Android, React Native, WordPress, Kotlin, Adobe Suite, Figma**
+- 📫 How to reach me **laxmanmagrati@gmail.com**
+- ⚡ Fun fact **Turning coffee into code, pixels into art, and errors into features.**
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsmelaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>

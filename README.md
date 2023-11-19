@@ -20,9 +20,11 @@
 - ⚡ Fun fact **Turning coffee into code, pixels into art, and errors into features.**
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsmelaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmelaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmelaxman&show_icons=true&locale=en&layout=compact" alt="itsmelaxman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&" alt="itsmelaxman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmelaxman&show_icons=true&locale=en" alt="itsmelaxman" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsmelaxman&theme=radical&no-frame=false&no-bg=true&margin-w=4)

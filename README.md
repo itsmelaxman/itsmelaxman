@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 - 😊 Pronouns: He/His
-- 🔭 I’m currently working on **@edigitalnepal @swiftsync @yuwadev**
+- 🔭 I’m currently working on **[@edigitalnepal](https://github.com/edigitalnepal) [@swiftsync] (https://github.com/swiftsyncnp)**
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[Github as well as in My Portfolio](https://magaratilaxman.com.np)**

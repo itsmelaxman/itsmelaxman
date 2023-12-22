@@ -29,7 +29,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="hand_shake.gif" height="30px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="handshake.gif" height="30px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.facebook.com/laxman.magarati.73" target="blank">

@@ -52,5 +52,6 @@
  </a>
 <br/>
 <br/>
-  Thanks for stopping by 😁<br/>
+  Thanks for Visiting...!!
+<br/>
 </p>

@@ -4,10 +4,8 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/itsmelaxman)
 [![Profile](https://komarev.com/ghpvc/?username=itsmelaxman&color=blue&style=flat)](https://github.com/itsmelaxman)
 [![Followers](https://img.shields.io/github/followers/itsmelaxman?style=social)](https://github.com/itsmelaxman?tab=followers)
-[![Twitter](https://img.shields.io/twitter/followers/lmagarati?style=social)](https://twitter.com/lmagarati?tab=followers)
+[![Twitter](https://img.shields.io/twitter/follow/lmagarati?style=social)](https://github.com/lmagarati?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/itsmelaxman)
-
-<p align="left"> <a href="https://twitter.com/lmagarati" target="blank"><img src="https://img.shields.io/twitter/follow/lmagarati?logo=twitter&style=for-the-badge" alt="lmagarati" /></a> </p>
 
 ## 🙋‍♂️ About Me
 

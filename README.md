@@ -35,14 +35,14 @@
  <a href="https://www.facebook.com/laxman.magarati.73" target="blank">
   <img align="center" alt="Laxman's Facebook" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://linkedin.com/in/lmagarati" target="blank">
-  <img align="center" alt="Laxman's LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/lmagarati" target="blank">
+   <a href="https://www.instagram.com/lmagarati" target="blank">
   <img align="center" alt="Laxman's Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/lmagarati" target="blank">
   <img align="center" alt="Laxman's Twitter" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://linkedin.com/in/lmagarati" target="blank">
+  <img align="center" alt="Laxman's LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="mailto:laxmanmagrati@gmail.com" target="blank">
   <img align="center" alt="Laxman's Gmail" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;

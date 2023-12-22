@@ -28,27 +28,10 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <h3 align="center">Connect with me<img align="center" src="handshake.gif" height="30px" /></h3> 
-</div>
-<p align="center">
- <a href="https://www.facebook.com/laxman.magarati.73" target="blank">
-  <img align="center" alt="Laxman's Facebook" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" /> &nbsp; &nbsp;
- </a>
-   <a href="https://www.instagram.com/lmagarati" target="blank">
-  <img align="center" alt="Laxman's Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/lmagarati" target="blank">
-  <img align="center" alt="Laxman's Twitter" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://linkedin.com/in/lmagarati" target="blank">
-  <img align="center" alt="Laxman's LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="mailto:laxmanmagrati@gmail.com" target="blank">
-  <img align="center" alt="Laxman's Gmail" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
- </a>
-<br/>
-<br/>
-  Thanks for Visiting...!!
-<br/>
-</p>
+## 🌐 Connect Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lmagarati) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lmagarati) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lmagarati) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lmagarati) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lmagarati) 
+[![Gmail](https://img.shields.io/badge/Gmail-%231DA1F2.svg?logo=Gmail&logoColor=white)](mailto:laxmanmagrati@gmail.com) 

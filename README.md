@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itsmelaxman&theme=nord&bg_color=0,2A3554,355B72,467281&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmelaxman&theme=nord&hide_border=true&bg_color=0,2A3554,355B72,467281&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&theme=nord&hide_border=true&bg_color=0,2A3554,355B72,467281)<br><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&theme=nord&bg_color=0,2A3554,355B72,467281&hide_border=true)<br><br>
 
 ## 👨‍💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,appwrite,git,html,css,illustrator,js,kotlin,laravel,linux,mysql,nginx,photoshop,php,postman,react,figma,xd,vscode" title="Appwrite, CSS, Dart, Figma, Firebase, Flutter, Git, HTML, Illustrator, JavaScript, Kotlin, Laravel, Linux, MySQL, Nginx, Photoshop, PHP, Postman, React" /> <br><br>

@@ -19,7 +19,7 @@
 <br>
 
 ## 📊 GitHub Stats:
-<table cellpadding="0" border="0">
+<table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=itsmelaxman&count_private=true&show_icons=true&theme=nord&bg_color=0,2A3554,355B72,467281&hide_border=true"/> </td>
     <td valign="top"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsmelaxman&theme=nord&bg_color=0,2A3554,355B72,467281&hide_border=true"/> </td>

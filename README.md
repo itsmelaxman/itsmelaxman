@@ -9,13 +9,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[E-Digital Nepal](https://github.com/edigitalnepal) & [SwifySync](https://github.com/swiftsyncofficial)** 
-- 🌱 I’m currently learning **Full Stack Development**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[Github as well as in My Portfolio](https://magaratilaxman.com.np)**
-- 💬 Ask me about **Flutter, Android, React Native, WordPress, Kotlin, Adobe Suite, Figma**
-- 📫 How to reach me **laxmanmagrati@gmail.com**
-- ⚡ Fun fact **I didn't love my job initially, but things have changed since then.**
+- 🔭 Currently working on cool projects at [E-Digital Nepal](https://github.com/edigitalnepal), [ShotCoder](https://github.com/ShotCoder-Tech) & having fun with [SwifySync](https://github.com/swiftsyncofficial).
+- 🌱 Learning **Full Stack Development** because it's exciting!
+- 👯 Open for collaborations on **Open Source Projects**. Let's build cool things together!
+- 👨‍💻 Check out my tech journey on [Github](https://github.com/itsmelaxman) and explore more on [My Portfolio](https://magaratilaxman.com.np).
+- 💬 Questions about **Flutter, Android, React Native, WordPress, Kotlin, Adobe Suite, Figma**? Feel free to ask!
+- 📫 Reach me at **laxmanmagrati@gmail.com**. Always up for a chat.
+- ⚡ Fun fact: **My job journey wasn't love at first sight, but it's grown on me over time.** 🚀
 <br>
 
 ## 📊 GitHub Stats:

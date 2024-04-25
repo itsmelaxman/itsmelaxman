@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working on cool projects at [E-Digital Nepal](https://github.com/edigitalnepal), [ShotCoder](https://github.com/ShotCoder-Tech) & having fun with [Avoloft](https://github.com/avoloft).
+- 🔭 Currently working on cool projects at [ShotCoder](https://github.com/ShotCoder-Tech) & having fun with [Avoloft](https://github.com/avoloft).
 - 🌱 Learning **Full Stack Development** because it's exciting!
 - 👯 Open for collaborations on **Open Source Projects**. Let's build cool things together!
 - 👨‍💻 Check out my tech journey on [Github](https://github.com/itsmelaxman) and explore more on [My Portfolio](https://magaratilaxman.com.np).

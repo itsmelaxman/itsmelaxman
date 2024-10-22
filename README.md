@@ -9,13 +9,33 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working on cool projects at [Neelgai](https://github.com/@neelgai) & having fun with [Avoloft](https://github.com/avoloft).
-- 🌱 Learning **Full Stack Development** because it's exciting!
-- 👯 Open for collaborations on **Open Source Projects**. Let's build cool things together!
-- 👨‍💻 Check out my tech journey on [Github](https://github.com/itsmelaxman) and explore more on [My Portfolio](https://magaratilaxman.com.np).
-- 💬 Questions about **Flutter, Android, React Native, WordPress, Kotlin, Adobe Suite, Figma**? Feel free to ask!
-- 📫 Reach me at **laxmanmagrati@gmail.com**. Always up for a chat.
-- ⚡ Fun fact: **My job journey wasn't love at first sight, but it's grown on me over time.** 🚀
+```dart
+const profile = Developer(
+  name: Text("Laxman Magrati"),
+  currentProjects: [
+    Project("Neelgai", description: "Working on cool projects"),
+    Project("Avoloft", description: "Having fun with exciting tasks"),
+  ],
+  learning: "Full Stack Development",
+  collaboration: true,
+  openSourceInterest: "Open for collaborations on Open Source Projects. Let's build cool things together!",
+  techJourney: {
+    github: "Check out my tech journey on Github",
+    portfolio: "Explore more on My Portfolio",
+  },
+  questions: [
+    "Flutter",
+    "Android",
+    "React Native",
+    "WordPress",
+    "Kotlin",
+    "Adobe Suite",
+    "Figma",
+  ],
+  contact: "Reach me at laxmanmagrati@gmail.com. Always up for a chat.",
+  funFact: "My job journey wasn't love at first sight, but it's grown on me over time.",
+);
+```
 <br>
 
 ## 📊 GitHub Stats:

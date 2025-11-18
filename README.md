@@ -34,7 +34,8 @@ title="Dart, Flutter, Kotlin, Firebase, Appwrite, Git, HTML, CSS, Illustrator, J
 ## 📝 Publications
 
 - [From Monolith to Microservices: A Flutter Developer’s Journey](https://lmagarati.medium.com/from-monolith-to-microservices-a-flutter-developers-journey-0e4b7cb1dbc1)  
-- [Lost in Translation: Your Guide to Building Apps the Whole World Will Love](https://lmagarati.medium.com/lost-in-translation-your-guide-to-building-apps-the-whole-world-will-love-9fb0713cfff1)  
+- [Lost in Translation: Your Guide to Building Apps the Whole World Will Love](https://lmagarati.medium.com/lost-in-translation-your-guide-to-building-apps-the-whole-world-will-love-9fb0713cfff1)
+- [Why Nepali Shopkeepers Still Lose Money Without Realizing It](https://medium.com/@byaparmate/why-nepali-shopkeepers-still-lose-money-without-realizing-it-94ad8ed66667)
 
 ---
 

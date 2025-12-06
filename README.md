@@ -1,6 +1,6 @@
 # Laxman Magarati  
 
-**Senior Mobile App & Product Engineer | Flutter & Kotlin Specialist | Worked on 120+ SaaS Product Apps & 35+ Custom Applications**
+**Mobile App & Product Engineer | Flutter & Kotlin Specialist | Worked on 120+ SaaS Product Apps & 35+ Custom Applications**
 
 Product-minded engineer with a strong focus on **architecture, scalability, and usability**.  
 I build products that serve real-world users, blending **engineering precision** with a **product-first mindset**.  

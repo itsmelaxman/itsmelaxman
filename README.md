@@ -32,10 +32,13 @@ title="Dart, Flutter, Kotlin, Firebase, Appwrite, Git, HTML, CSS, Illustrator, J
 ---
 
 ## 📝 Publications
-- [Trust Boundaries in TOTP: What Google Authenticator’s Cloud Sync Changes](https://lmagarati.medium.com/trust-boundaries-in-totp-what-google-authenticators-cloud-sync-changes-311ac091a162)
-- [From Monolith to Microservices: A Flutter Developer’s Journey](https://lmagarati.medium.com/from-monolith-to-microservices-a-flutter-developers-journey-0e4b7cb1dbc1)  
-- [Lost in Translation: Your Guide to Building Apps the Whole World Will Love](https://lmagarati.medium.com/lost-in-translation-your-guide-to-building-apps-the-whole-world-will-love-9fb0713cfff1)
-- [Why Nepali Shopkeepers Still Lose Money Without Realizing It](https://medium.com/@byaparmate/why-nepali-shopkeepers-still-lose-money-without-realizing-it-94ad8ed66667)
+1. [From Monolith to Microservices: A Flutter Developer’s Journey](https://lmagarati.medium.com/from-monolith-to-microservices-a-flutter-developers-journey-0e4b7cb1dbc1)
+2. [Lost in Translation: Your Guide to Building Apps the Whole World Will Love](https://lmagarati.medium.com/lost-in-translation-your-guide-to-building-apps-the-whole-world-will-love-9fb0713cfff1)
+3. [Why Nepali Shopkeepers Still Lose Money Without Realizing It](https://medium.com/@byaparmate/why-nepali-shopkeepers-still-lose-money-without-realizing-it-94ad8ed66667)
+4. [Trust Boundaries in TOTP: What Google Authenticator’s Cloud Sync Changes](https://lmagarati.medium.com/trust-boundaries-in-totp-what-google-authenticators-cloud-sync-changes-311ac091a162)
+5. [Idempotency in Distributed Systems: Practical Reality vs Theory](https://lmagarati.medium.com/idempotency-in-distributed-systems-practical-reality-vs-theory-21fe0661cce9)
+
+
 
 ---
 

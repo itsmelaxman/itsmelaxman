@@ -13,7 +13,7 @@ Beyond code, I write literature and explore ideas that shape creativity and clar
 title="Dart, Flutter, Kotlin, Firebase, Appwrite, Git, HTML, CSS, Illustrator, JS, Laravel, Linux, MySQL, Nginx, Photoshop, PHP, Postman, React, Figma, XD, VSCode, TypeScript, Notion" /> <br><br>
 
 ## 🛠 Contributions & Packages
-- [Easy Mock Server] (https://github.com/itsmelaxman/easy_mock_server)
+- [Easy Mock Server](https://github.com/itsmelaxman/easy_mock_server)
 - [Flutter Expandable Fab](https://github.com/zuvola/flutter_expandable_fab)  
 - [Simple Refresher](https://github.com/itsmelaxman/rview.git)  
 - [Infinite Scroll](https://github.com/itsmelaxman/infinite_scroll.git)  
